@@ -4,8 +4,8 @@
   alt="Meorwik"
 />
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
+<div id="toc" align="center">
+  <ul style="list-style: none">
     <summary>
       <h1>
         Meet <span style="color: purple;">Meorwik</span>
@@ -19,7 +19,7 @@ I'm a developer with a strong focus on building web applications and managing th
 
   <div><h3 align="center"><strong>Skills</strong></h3><br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; align-items: center;">
   <!-- Core backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI">
