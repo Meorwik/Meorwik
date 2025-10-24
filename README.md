@@ -13,7 +13,8 @@
     </summary>
   </ul>
 </div>
-**<h3 align="center">📌 Hi! I'm Meorwik, a backend engineer from Kazakhstan 🇰🇿. 📌<br>
+
+<h3 align="center">📌 Hi! I'm Meorwik, a backend engineer from Kazakhstan 🇰🇿. 📌<br>
 I'm a developer with a strong focus on building web applications and managing the full lifecycle of development, deployment, and application maintenance.</h3>
 
   <div><h3 align="center"><strong>Skills</strong></h3><br>
